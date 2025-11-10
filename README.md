@@ -1,12 +1,11 @@
-# GreenLink 2.0 — Smart Sustainability Dashboard (Hackathon-ready)
+# GreenLink 2.0 — Smart Sustainability Dashboard
 
-## What you get in this ZIP
 - `backend/` — Minimal Express backend serving a `/api/stats` endpoint with sample CO2/build data and a simple plugin example.
 - `frontend/` — Minimal React + Vite app (JSX) that fetches `/api/stats` and shows charts & GreenScore badge.
 - `.gitignore` — Common ignores.
 - Instructions to run locally and how to wire a GitHub Action plugin.
 
-## Quick Start (development)
+## Quick Start
 You'll need Node.js (v18+) and npm/yarn.
 
 ### Backend
